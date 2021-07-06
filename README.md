@@ -3,8 +3,8 @@ It is based on [gruvbox](https://github.com/morhetz/gruvbox) theme for vim by mo
 
 ## Installation
 
-Put line
+Put the line
 ```
 include <path_to_theme_file>
 ```
-in kitty config file (most likely `~/.config/kitty/kitty.conf`). If you have no config file, create file `~/.config/kitty/kitty.conf` with that single line.
+at the end of your kitty config file (most likely `~/.config/kitty/kitty.conf`). If you don't have a config file, create file `~/.config/kitty/kitty.conf` with that single line.
