@@ -1,0 +1,5 @@
+*
+!.gitignore
+!README*
+!LICENSE*
+!*.conf
